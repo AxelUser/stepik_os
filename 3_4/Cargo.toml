@@ -1,0 +1,7 @@
+[package]
+name = "homework_3_4"
+version = "0.1.0"
+authors = ["Alexey Maltsev <aamaltsev@skbkontur.ru>"]
+edition = "2018"
+
+[dependencies]
